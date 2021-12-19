@@ -2,6 +2,6 @@
 
 Prototipos Layout
 
-Desktop
-Mobile
-Tablet
+#Desktop
+#Mobile
+#Tablet
